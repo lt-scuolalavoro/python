@@ -3,7 +3,7 @@ class phraseClass:
   def invert(self):
     return self.phrase[::-1]
   def wordCount(self):
-     return len(self.phrase.split())
+    return len(self.phrase.split())
 
 phrase1 = phraseClass()
 phrase1.phrase = "Hello World!"
