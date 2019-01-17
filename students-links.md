@@ -20,8 +20,8 @@ https://www.duolingo.com/joelepore (Eng 21) <br>
 https://www.hackerrank.com/giuseppelepore (Python S:3)<br>
 
 Martino Pagano<br>
-https://www.duolingo.com/paganomc<br>
-https://www.hackerrank.com/Martino_Pagano<br>
+https://www.duolingo.com/paganomc<br> (Eng 12)<br>
+https://www.hackerrank.com/Martino_Pagano<br> (Python S:3)<br>
 
 Emanuele D'Angelo<br>
 https://www.duolingo.com/Emanuele967250 (Eng 6)<br>
