@@ -6,20 +6,31 @@ https://www.duolingo.com/MartinoCas3 (Eng 6)<br>
 https://www.hackerrank.com/MartinoCassano (Python S:3)<br>
 
 Roberto Clemente<br>
+https://www.duolingo.com/GUITARISTQWERTY<br>
 
-Giuseppe De Santis
+Giuseppe De Santis<br>
+https://www.duolingo.com/Giusepppe10<br>
 
-Raffaele Del Basso
+Raffaele Del Basso<br>
+https://www.duolingo.com/raffdelbasso<br>
+https://www.hackerrank.com/raffydelbasso<br>
 
-Giuseppe Lepore
+Giuseppe Lepore<br>
+https://www.duolingo.com/joelepore<br>
+https://www.hackerrank.com/giuseppelepore<br>
 
-Martino Pagano
+Martino Pagano<br>
+https://www.duolingo.com/paganomc<br>
+https://www.hackerrank.com/Martino_Pagano<br>
 
-Emanuele D'Angelo
+Emanuele D'Angelo<br>
+https://www.duolingo.com/Emanuele967250<br>
+https://www.hackerrank.com/ithurtslikehell1<br>
 
-Marcello Tarallo
+Marcello Tarallo<br>
+https://www.duolingo.com/Marcyoh<br>
 
-Simone Verna
-
-
+Simone Verna<br>
+https://www.duolingo.com/SimoneVern6<br>
+https://www.hackerrank.com/simoneverna<br>
 
