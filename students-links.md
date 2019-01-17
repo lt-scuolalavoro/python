@@ -18,7 +18,6 @@ https://www.hackerrank.com/raffydelbasso (Python S:3)<br>
 Giuseppe Lepore<br>
 https://www.duolingo.com/joelepore (Eng 21) <br> 
 https://www.hackerrank.com/giuseppelepore (Python S:3)<br>
-<a href="https://www.duolingo.com/joelepore" target="_new">https://www.duolingo.com/joelepore</a>
 
 Martino Pagano<br>
 https://www.duolingo.com/paganomc<br>
