@@ -9,11 +9,11 @@ Roberto Clemente<br>
 https://www.duolingo.com/GUITARISTQWERTY  (<strong>Err 404</strong>)<br>
 
 Giuseppe De Santis<br>
-https://www.duolingo.com/Giusepppe10<br>
+https://www.duolingo.com/Giusepppe10 (Eng 7)<br>
 
 Raffaele Del Basso<br>
-https://www.duolingo.com/raffdelbasso<br>
-https://www.hackerrank.com/raffydelbasso<br>
+https://www.duolingo.com/raffdelbasso (Eng 14)<br>
+https://www.hackerrank.com/raffydelbasso (Python S:3)<br>
 
 Giuseppe Lepore<br>
 https://www.duolingo.com/joelepore<br>
