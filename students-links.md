@@ -24,13 +24,13 @@ https://www.duolingo.com/paganomc<br>
 https://www.hackerrank.com/Martino_Pagano<br>
 
 Emanuele D'Angelo<br>
-https://www.duolingo.com/Emanuele967250(Eng 6)<br>
-https://www.hackerrank.com/ithurtslikehell1(Python S:3)<br>
+https://www.duolingo.com/Emanuele967250 (Eng 6)<br>
+https://www.hackerrank.com/ithurtslikehell1 (Python S:3)<br>
 
 Marcello Tarallo<br>
 https://www.duolingo.com/Marcyoh<br>
 
 Simone Verna<br>
-https://www.duolingo.com/SimoneVern6(Eng 10)<br>
-https://www.hackerrank.com/simoneverna(Python S:3)<br>
+https://www.duolingo.com/SimoneVern6 (Eng 10)<br>
+https://www.hackerrank.com/simoneverna (Python S:3)<br>
 
