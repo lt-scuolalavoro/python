@@ -28,7 +28,8 @@ https://www.duolingo.com/Emanuele967250 (Eng 6)<br>
 https://www.hackerrank.com/ithurtslikehell1 (Python S:3)<br>
 
 Marcello Tarallo<br>
-https://www.duolingo.com/Marcyoh<br>
+https://www.duolingo.com/Marcyoh (Eng 6)<br>
+https://www.hackerrank.com/marcyoh00 (Python S:3)<br>
 
 Simone Verna<br>
 https://www.duolingo.com/SimoneVern6 (Eng 10)<br>
