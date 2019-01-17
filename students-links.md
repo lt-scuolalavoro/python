@@ -6,7 +6,7 @@ https://www.duolingo.com/MartinoCas3 (Eng 6)<br>
 https://www.hackerrank.com/MartinoCassano (Python S:3)<br>
 
 Roberto Clemente<br>
-https://www.duolingo.com/GUITARISTQWERTY  (<strong>Err 404</strong>)<br>
+https://www.duolingo.com/RobertoClement25 (Eng 10)<br>
 
 Giuseppe De Santis<br>
 https://www.duolingo.com/Giusepppe10 (Eng 7)<br>
