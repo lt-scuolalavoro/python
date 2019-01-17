@@ -28,7 +28,7 @@ https://www.duolingo.com/Emanuele967250<br>
 https://www.hackerrank.com/ithurtslikehell1<br>
 
 Marcello Tarallo<br>
-https://www.duolingo.com/Marcyoh (Eng: 6)<br>
+https://www.duolingo.com/Marcyoh (Eng 6)<br>
 
 Simone Verna<br>
 https://www.duolingo.com/SimoneVern6<br>
