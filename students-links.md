@@ -24,7 +24,7 @@ https://www.duolingo.com/paganomc (Eng 12)<br>
 https://www.hackerrank.com/Martino_Pagano (Python S:3)<br>
 
 Emanuele D'Angelo<br>
-https://www.duolingo.com/Emanuele967250 (Eng 6)<br>
+https://www.duolingo.com/Emanuele967250 (Eng 7)<br>
 https://www.hackerrank.com/ithurtslikehell1 (Python S:3)<br>
 
 Marcello Tarallo<br>
