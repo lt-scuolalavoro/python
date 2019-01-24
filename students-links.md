@@ -1,5 +1,6 @@
 Simone Cacciapaglia<br>
 https://www.duolingo.com/Simone2385 (Eng 9)<br>
+https://www.hackerrank.com/simo_23 (Python: 0)<br>
 
 Martino Cassano<br>
 https://www.duolingo.com/MartinoCas3 (Eng 7)<br>
