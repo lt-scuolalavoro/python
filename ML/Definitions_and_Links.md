@@ -5,10 +5,7 @@
 ### Github
 
 ### Google Presentation
-Roberto Clemente
-Simone Verna
-Martino Cassano
-Emanuele D'Angelo
+Roberto Clemente, Simone Verna, Martino Cassano, Emanuele D'Angelo.
 
 
 ## Links
