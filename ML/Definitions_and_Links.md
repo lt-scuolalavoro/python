@@ -6,6 +6,9 @@
 
 ### Google Presentation
 Roberto Clemente
+Simone Verna
+Martino Cassano
+Emanuele D'Angelo
 
 
 ## Links
