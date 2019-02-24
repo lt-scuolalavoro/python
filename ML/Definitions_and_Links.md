@@ -3,7 +3,7 @@
 ## Workgroups
 
 ### Github
-Raffaele Del Basso
+Raffaele Del Basso, Giuseppe Lepore
 
 ### Google Presentation
 Roberto Clemente, Simone Verna, Martino Cassano, Emanuele D'Angelo.
