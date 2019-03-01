@@ -17,3 +17,6 @@ https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/col
 Artificial Intelligence explanations:<br>
 https://en.wikipedia.org/wiki/Artificial_intelligence<br>
 https://www.britannica.com/technology/artificial-intelligence
+
+Boston Dynamics' website:<br>
+https://www.bostondynamics.com/
