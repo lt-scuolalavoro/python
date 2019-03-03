@@ -14,7 +14,7 @@ https://www.duolingo.com/Giusepppe10 (Eng 7)<br>
 
 Raffaele Del Basso<br>
 https://www.duolingo.com/raffdelbasso (Eng 21)<br>
-https://www.hackerrank.com/raffydelbasso (Python S:4)<br>
+https://www.hackerrank.com/raffydelbasso (Python G:5)<br>
 
 Giuseppe Lepore<br>
 https://www.duolingo.com/joelepore (Eng 21) <br> 
