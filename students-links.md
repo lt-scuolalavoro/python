@@ -13,7 +13,7 @@ Giuseppe De Santis<br>
 https://www.duolingo.com/Giusepppe10 (Eng 7)<br>
 
 Raffaele Del Basso<br>
-https://www.duolingo.com/raffdelbasso (Eng 15)<br>
+https://www.duolingo.com/raffdelbasso (Eng 19)<br>
 https://www.hackerrank.com/raffydelbasso (Python S:3)<br>
 
 Giuseppe Lepore<br>
