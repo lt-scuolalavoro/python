@@ -21,5 +21,8 @@ https://www.britannica.com/technology/artificial-intelligence
 Boston Dynamics' website:<br>
 https://www.bostondynamics.com/
 
-Colab's code - Free Text Evalutation: <br>
+Colab's code - Free Text Evalutation:<br>
 https://colab.research.google.com/drive/1nbi1mUE2IEgmqbXEA_zaQNckjKkiYu2Y
+
+Machine Learning - Google Presentation:<br>
+https://docs.google.com/presentation/d/1B8JHxTOotP-oQVObdW-N1Ux2MKF-tGbaM5b8s9_Ax88/edit?usp=sharing_eip&ts=5c7e5de7
