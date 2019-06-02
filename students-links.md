@@ -8,6 +8,7 @@ https://www.hackerrank.com/MartinoCassano (Python S:3)<br>
 
 Roberto Clemente<br>
 https://www.duolingo.com/RobertoClement25 (Eng 10)<br>
+https://www.hackerrank.com/RobertoClemente (Python S:3)<br>
 
 Giuseppe De Santis<br>
 https://www.duolingo.com/Giusepppe10 (Eng 7)<br>
